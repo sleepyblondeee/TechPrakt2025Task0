@@ -1,4 +1,4 @@
-https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png
+![Screenshot](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
 # Виконання практичної роботи передбачає вивчення прийомів роботи з
 системою контролю версій Git:
 
